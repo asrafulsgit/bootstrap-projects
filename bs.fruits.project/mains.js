@@ -60,7 +60,6 @@ function pageTwo(){
         scrollTrigger:{
             trigger:'.category_section',
             scroller:'body',
-            markers:true,
             start:'top 80%',
             end:'top 60%',
         }
@@ -93,7 +92,6 @@ function pageThree(){
         scrollTrigger:{
             trigger:'.poster_section',
             scroller:'body',
-            markers:true,
             start:'top 80%',
             end:'top 50%', 
         }
